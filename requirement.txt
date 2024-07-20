@@ -1,11 +1,4 @@
-
 Flask==3.0.3
-geometry-msgs==4.2.4
 gunicorn==22.0.0
-image-geometry==3.2.1
-interactive-markers==2.3.2
-itsdangerous==2.2.0
 Jinja2==3.1.4
-laser-geometry==2.4.0
-launch==1.0.6
 Werkzeug==3.0.3
